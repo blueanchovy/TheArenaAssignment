@@ -1,5 +1,5 @@
 #frontend
-> cd client 
+> cd client \n
 > npm i
 > npm run dev
 > check localhost:3000
